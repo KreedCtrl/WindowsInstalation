@@ -1,10 +1,10 @@
 # Windows Instalation
 
 ## Basic
-**Chrome** - 
-**7z** - 
-**Nvidia** - 
-**AMD** - 
+**[Chrome](google.com/chrome)** - google.com/chrome
+**7z** - 7-zip.org
+**Nvidia** - nvidia.com/en-us/drivers
+**AMD** - amd.com/en/support
 **Activator + Office** - 
 **Sublimce text** - 
 
