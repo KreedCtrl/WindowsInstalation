@@ -12,6 +12,9 @@
 [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 [GPU-Z](https://www.techpowerup.com/gpuz/) 
 [HWMMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
+[OCCT](https://www.ocbase.com/download)
+[FurMark](https://geeks3d.com/furmark/)
+[Aida64](https://www.aida64.com/downloads)
 
 ## Utilites
 [Steam](https://store.steampowered.com/about/)
