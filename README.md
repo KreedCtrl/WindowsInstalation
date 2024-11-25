@@ -37,3 +37,6 @@
 1. Set right region on Windows
 2. Instal [Xbox](https://www.xbox.com/ro-MD/apps/xbox-app-on-pc)
 3. Go to Settings >> App >> Instal Microsoft Store
+
+### Important setiings:
+1. System > Multi-Tasking > Snap Windows > When I drag a window, let me snap it without dragging all the way to the screen edge
