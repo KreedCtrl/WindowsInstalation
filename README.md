@@ -39,4 +39,4 @@
 3. Go to Settings >> App >> Instal Microsoft Store
 
 ### Important setiings:
-1. System > Multi-Tasking > Snap Windows > When I drag a window, let me snap it without dragging all the way to the screen edge
+1. System > Multi-Tasking > Snap Windows > When I drag a window, let me snap it without dragging all the way to the screen edge ON
