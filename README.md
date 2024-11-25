@@ -31,3 +31,9 @@
 [Rufus](https://rufus.ie/)
 [Micrososft ISO](https://www.microsoft.com/en-us/software-download/windows11)
 [GIT UnattendWinstall](https://github.com/memstechtips/UnattendedWinstall)
+
+
+### How to Instal Microsoft Store
+1. Set right region on Windows
+2. Instal [Xbox](https://www.xbox.com/ro-MD/apps/xbox-app-on-pc)
+3. Go to Settings >> App >> Instal Microsoft Store
