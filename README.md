@@ -26,6 +26,7 @@
 [Sublime text ](https://www.sublimetext.com/)
 [VS Code](https://code.visualstudio.com/)
 [qBittorent](https://www.qbittorrent.org/download)
+[ShareX](https://getsharex.com/)
 
 ## To create Windows 
 [Rufus](https://rufus.ie/)
