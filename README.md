@@ -27,6 +27,7 @@
 [VS Code](https://code.visualstudio.com/)
 [qBittorent](https://www.qbittorrent.org/download)
 [ShareX](https://getsharex.com/)
+[MicrosoftPhotos](https://apps.microsoft.com/detail/9WZDNCRFJBH4?hl=en-gb&gl=MD&ocid=pdpshare)
 
 ## To create Windows 
 [Rufus](https://rufus.ie/)
